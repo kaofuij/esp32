@@ -18,7 +18,6 @@ Repo này gồm 2 ví dụ dùng **ESP32 + WiFi.h** để tạo web server đơn
 
 - ESP32 tự phát WiFi (SSID mặc định: **ESP32-Access-Point**, mật khẩu: **123456789**).  
 - Tạo web server cổng **80**.  
-- Khi kết nối vào WiFi này và mở trình duyệt → hiển thị trang web **Hello World**.  
 
 ---
 
